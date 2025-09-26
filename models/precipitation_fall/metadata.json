@@ -1,0 +1,13 @@
+{
+  "task": "precipitation_fall",
+  "student_id": "25739083",
+  "experiment": 1,
+  "timestamp": "20250926-181634",
+  "model_path": "..\\models\\precipitation_fall\\model.joblib",
+  "transformers": [],
+  "features_count": 47,
+  "features_path": "..\\models\\precipitation_fall\\features.txt",
+  "threshold": null,
+  "metrics": {},
+  "code_version": "v1"
+}
