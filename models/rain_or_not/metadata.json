@@ -1,0 +1,13 @@
+{
+  "task": "rain_or_not",
+  "student_id": "25739083",
+  "experiment": 1,
+  "timestamp": "20250926-181634",
+  "model_path": "..\\models\\rain_or_not\\model.joblib",
+  "transformers": [],
+  "features_count": 47,
+  "features_path": "..\\models\\rain_or_not\\features.txt",
+  "threshold": 0.35,
+  "metrics": {},
+  "code_version": "v1"
+}
